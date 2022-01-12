@@ -1,12 +1,10 @@
 ---
-title: Trials and Tribulations
 email: your-email@domain.com
 theme: minima
-description: "Experimentation and results"
+
 ---
 
 # social links
 twitter_username: kenblonski # DO NOT include the @ character, or else the build will fail!
 github_username:  kenblonski # DO NOT include the @ character, or else the build will fail!
-
 show_excerpts: false # set to false to remove excerpts on the homepage
