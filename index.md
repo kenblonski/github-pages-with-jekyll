@@ -1,8 +1,7 @@
----
+--- 
 title: "Trials and Tribulations"
-description: "Experimentation and results"
-theme: minima
----
+description: "Experimentation and results" 
+--- 
 
 ## Trials and Tribulations
 
